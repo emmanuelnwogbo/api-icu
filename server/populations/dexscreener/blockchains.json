@@ -1,0 +1,278 @@
+[
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/ethereum.png",
+    "blockchainname": "Ethereum"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/bsc.png",
+    "blockchainname": "BSC"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/arbitrum.png",
+    "blockchainname": "Arbitrum"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/polygon.png",
+    "blockchainname": "Polygon"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/optimism.png",
+    "blockchainname": "Optimism"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/zksync.png",
+    "blockchainname": "zkSync"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/solana.png",
+    "blockchainname": "Solana"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/avalanche.png",
+    "blockchainname": "Avalanche"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/canto.png",
+    "blockchainname": "Canto"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/fantom.png",
+    "blockchainname": "Fantom"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/osmosis.png",
+    "blockchainname": "Osmosis"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/sui.png",
+    "blockchainname": "Sui"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/cronos.png",
+    "blockchainname": "Cronos"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/metis.png",
+    "blockchainname": "Metis"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/arbitrumnova.png",
+    "blockchainname": "Arbitrum Nova"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/core.png",
+    "blockchainname": "Core"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/conflux.png",
+    "blockchainname": "Conflux"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/aptos.png",
+    "blockchainname": "Aptos"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/heco.png",
+    "blockchainname": "HECO"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/kava.png",
+    "blockchainname": "Kava"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/moonbeam.png",
+    "blockchainname": "Moonbeam"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/okc.png",
+    "blockchainname": "OKC"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/near.png",
+    "blockchainname": "NEAR"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/polygonzkevm.png",
+    "blockchainname": "Polygon zkEVM"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/dogechain.png",
+    "blockchainname": "Dogechain"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/klaytn.png",
+    "blockchainname": "Klaytn"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/acala.png",
+    "blockchainname": "Acala"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/avalanchedfk.png",
+    "blockchainname": "Avalanche DFK"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/astar.png",
+    "blockchainname": "Astar"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/kcc.png",
+    "blockchainname": "KCC"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/gnosischain.png",
+    "blockchainname": "Gnosis Chain"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/celo.png",
+    "blockchainname": "Celo"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/moonriver.png",
+    "blockchainname": "Moonriver"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/godwoken.png",
+    "blockchainname": "Godwoken"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/telos.png",
+    "blockchainname": "Telos"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/iotex.png",
+    "blockchainname": "IoTeX"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/aurora.png",
+    "blockchainname": "Aurora"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/stepnetwork.png",
+    "blockchainname": "Step Network"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/evmos.png",
+    "blockchainname": "Evmos"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/tombchain.png",
+    "blockchainname": "Tomb Chain"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/bitgert.png",
+    "blockchainname": "Bitgert"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/oasisemerald.png",
+    "blockchainname": "Oasis Emerald"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/ethereumpow.png",
+    "blockchainname": "EthereumPoW"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/harmony.png",
+    "blockchainname": "Harmony"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/milkomedacardano.png",
+    "blockchainname": "Milkomeda"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/velas.png",
+    "blockchainname": "Velas"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/sxnetwork.png",
+    "blockchainname": "SX Network"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/kardiachain.png",
+    "blockchainname": "KardiaChain"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/loopnetwork.png",
+    "blockchainname": "Loop Network"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/wanchain.png",
+    "blockchainname": "Wanchain"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/goerli.png",
+    "blockchainname": "Goerli"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/fuse.png",
+    "blockchainname": "Fuse"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/smartbch.png",
+    "blockchainname": "SmartBCH"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/boba.png",
+    "blockchainname": "Boba"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/exosama.png",
+    "blockchainname": "Exosama"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/elastos.png",
+    "blockchainname": "Elastos"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/redlightchain.png",
+    "blockchainname": "Redlight Chain"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/syscoin.png",
+    "blockchainname": "Syscoin"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/thundercore.png",
+    "blockchainname": "ThunderCore"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/ethereumclassic.png",
+    "blockchainname": "Ethereum Classic"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/energi.png",
+    "blockchainname": "Energi"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/ethereumfair.png",
+    "blockchainname": "EthereumFair"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/meter.png",
+    "blockchainname": "Meter"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/flare.png",
+    "blockchainname": "Flare"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/bonerium.png",
+    "blockchainname": "Bonerium"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/alvey.png",
+    "blockchainname": "Alvey"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/hashbit.png",
+    "blockchainname": "HashBit"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/pulsechain.png",
+    "blockchainname": "PulseChain"
+  },
+  {
+    "imglink": "https://dd.dexscreener.com/ds-data/chains/cube.png",
+    "blockchainname": "Cube"
+  }
+]
