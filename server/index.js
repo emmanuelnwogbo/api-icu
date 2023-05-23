@@ -51,9 +51,7 @@ async function callAPIs() {
   alchemydata();
 }
 
-if (process.env.DB === 'mongodb://coinmarket:27017/api1') {
-  callAPIs()
-}
+callAPIs()
 
 app.use(express.json());
 app.use(bodyParser.json());
